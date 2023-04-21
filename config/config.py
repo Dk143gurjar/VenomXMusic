@@ -22,12 +22,12 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001734555079"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001723751103"))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5537497510").split())
+    map(int, getenv("OWNER_ID", "1454188284").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Itzvenomo/VenomXMusic",
+    "https://github.com/Dk143gurjar/Dilkhush",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
@@ -104,11 +104,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/7753e6b9852ea5c7ef074.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/c15e374771b1b6807bd84.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/7753e6b9852ea5c7ef074.jpg",
+    "https://te.legra.ph/file/16472a6113b4b231236c9.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
