@@ -75,7 +75,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [💕ᴍᴜsɪᴄ ʙᴏᴛ 💝](https://telegram.me/Dark_queen_robot)
+  [💕ᴍᴜsɪᴄ ʙᴏᴛ 💝](https://telegram.me/dkmusic5bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -93,4 +93,4 @@ Atleast Give A Star and Fork The Repo 🖤
 ☞ `OWNER_ID` - Put your owner id.<br>
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/Itzvenomo)
+- » [𝐌𝐑 𝐃𝐈𝐋𝐊𝐇𝐔𝐒𝐇](https://github.com/DK143gurjar)
