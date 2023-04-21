@@ -1,7 +1,7 @@
 {
-    "name": "𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝ǫᴜᴇᴇɴ𓃭 ⃟ᴍᴜsɪᴄ⛦⃕͜༆",
+    "name": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/7753e6b9852ea5c7ef074.jpg",
+    "logo": "https://te.legra.ph/file/c15e374771b1b6807bd84.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝ǫᴜᴇᴇɴ𓃭 ⃟ᴍᴜsɪᴄ⛦⃕͜༆",
+        "value": "𝐃𝐊 𝐌𝐔𝐒𝐈𝐂",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -65,7 +65,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5956803759",
+        "value": "1454188284",
         "required": true
       },
       "STRING_SESSION": {
@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/Its_Venom_family",
+        "value": "https://t.me/Dk_music1",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Heroku_Dyno",
+        "value": "https://t.me/education_quiz_hub",
         "required": false
       }
     },
